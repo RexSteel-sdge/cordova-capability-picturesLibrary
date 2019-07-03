@@ -1,0 +1,25 @@
+{
+  "name": "cordova-windows-capability-picturesLibrary",
+  "version": "0.1.1",
+  "description": "Add picturesLibrary Capability to appxmanifest",
+  "cordova": {
+    "id": "cordova-windows-capability-picturesLibrary",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-windows"
+  ],
+  "author": "Rex Steel",
+  "license": "Rex Steel",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
